@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess</string>
+    <string name="bigger">もっと大きい</string>
+    <string name="ok">確認</string>
+    <string name="please_enter_a_number">数字を入力してください</string>
+    <string name="dialog_title">メッセージ</string>
+    <string name="smaller">もっと小さく</string>
+    <string name="yes_u_got_it">合った！</string>
+</resources>
